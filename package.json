@@ -1,5 +1,5 @@
 {
-  "name": "Unib",
+  "name": "unib",
   "private": true,
   "scripts": {
     "build": "turbo run build",

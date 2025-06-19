@@ -1,0 +1,25 @@
+{
+  "name": "window",
+  "version": "1.0.0",
+  "description": "窗口管理",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@repo/eslint-config": "workspace:*",
+    "@repo/typescript-config": "workspace:*",
+    "@turbo/gen": "^2.5.0",
+    "@types/node": "^22.15.3",
+    "eslint": "^9.29.0",
+    "typescript": "5.8.2",
+    "tsc": "^2.0.4"
+  },
+  "dependencies": {
+    
+  }
+}
